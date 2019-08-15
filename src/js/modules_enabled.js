@@ -1,11 +1,6 @@
-/*=include modules/clipboard.js */
 /*=include modules/format.js */
 /*=include modules/html_table_import.js */
-/*=include modules/html_table_export.js */
-/*=include modules/keybindings.js */
 /*=include modules/mutator.js */
-/*=include modules/page.js */
 /*=include modules/print.js */
-/*=include modules/resize_table.js */
 /*=include modules/responsive_layout.js */
 /*=include modules/sort.js */
